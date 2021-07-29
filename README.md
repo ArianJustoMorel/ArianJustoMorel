@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ArianJustoMorel
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+
 
 <!---
 ArianJustoMorel/ArianJustoMorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
